@@ -3084,7 +3084,7 @@ object {
 .no-svg .dropdown-toggle.toggled-on .svg-fallback.icon-angle-down {
 	-webkit-transform: rotate(0); /* Chrome, Safari, Opera */
 	-ms-transform: rotate(0); /* IE 9 */
-	transform: rotate(0);
+	-transform: rotate(0);
 }
 
 .no-svg .dropdown-toggle .svg-fallback.icon-angle-down:before {

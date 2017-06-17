@@ -1,0 +1,13 @@
+{
+    "name": "root/doctrine",
+    "type": "library",
+    "authors": [
+        {
+            "name": "kumar2112",
+            "email": "sr.pkumar22@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "*"
+    }
+}
