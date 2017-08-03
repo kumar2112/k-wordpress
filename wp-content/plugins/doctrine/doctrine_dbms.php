@@ -14,7 +14,7 @@ Author URI: http://www.flynsarmy.com/
 */
 
  define('DB_USER','root');
- define('DB_PASSWORD','root');
+ define('DB_PASSWORD','');
  define('DB_HOST','localhost');
  define('DB_NAME','wordpress');
         require_once dirname(__FILE__)."/vendor/autoload.php";
